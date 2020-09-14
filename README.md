@@ -39,6 +39,6 @@
 
 
 [twitter]: https://twitter.com/haryel_dev
-[linkedin]: https://linkedin.com/in/haryel-gillet-ramalho
+[linkedin]: https://www.linkedin.com/in/haryelramalho/
 [github]: https://github.com/haryelramalho
 [gmail]: mailto:haryel.dev@gmail.com
