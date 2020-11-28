@@ -4,7 +4,7 @@
 
 ### Hi everyone, welcome to my profile :wave:
 
-- Full-Stack focused in NodeJs | Software Engineer :man_technologist:
+- Full-Stack | Software Engineer :man_technologist:
 
 - Lover of Technology and coding :exploding_head:
 
